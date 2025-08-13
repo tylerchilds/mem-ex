@@ -187,7 +187,7 @@ computer.style(`
     display: block;
     width: 100%;
     height: 100%;
-    touch-action: manipulation;
+    touch-action: none;
     user-select: none; /* supported by Chrome and Opera */
 		-webkit-user-select: none; /* Safari */
 		-khtml-user-select: none; /* Konqueror HTML */
